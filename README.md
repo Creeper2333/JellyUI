@@ -11,3 +11,21 @@ Bdbmzwsc:发起者
 想参与此项目，[点我](https://erha.vercel.app)
 在留言板内写```参与JellyUI```
 
+# JellyUI
+
+A c# written. DLL plug-in can make your WinForm interface play QQ like jelly ~ ~ drawable~~
+
+#Key developers
+
+Bdbmzwsc: initiator
+
+#Date of initiation
+
+```2021 / 8 / 11 ` ` ` (in fact, I wrote a similar one in 0202. Now I want to make it formal and add some functions)
+
+#Participation contribution
+
+If you want to participate in this project, [click me]（ https://erha.vercel.app )
+
+Write ` ` ` in the message board to participate in jellyui```
+
