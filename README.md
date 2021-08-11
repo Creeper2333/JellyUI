@@ -15,17 +15,17 @@ Bdbmzwsc:发起者
 
 A c# written. DLL plug-in can make your WinForm interface play QQ like jelly ~ ~ drawable~~
 
-#Key developers
+# Key developers
 
 Bdbmzwsc: initiator
 
-#Date of initiation
+# Date of initiation
 
-```2021 / 8 / 11 ` ` ` (in fact, I wrote a similar one in 0202. Now I want to make it formal and add some functions)
+```2021 / 8 / 11 ``` (in fact, I wrote a similar one in 0202. Now I want to make it formal and add some functions)
 
 #Participation contribution
 
-If you want to participate in this project, [click me]（ https://erha.vercel.app )
+If you want to participate in this project, [click me](https://erha.vercel.app)
 
-Write ` ` ` in the message board to participate in jellyui```
+Write ``` in the message board to participate in jellyui```
 
